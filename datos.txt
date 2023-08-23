@@ -1,0 +1,26 @@
+Push para subir
+Pull para recibir las actualizaciones
+
+para crear una rama 
+git checkout -b nombre_rama
+
+volver a principal
+git checkout master
+
+mostrar la rama actual
+git branch
+
+Para Borrar
+git branch -b nombre_rama
+
+Para subir la rama a repo remoto
+git push origin nombre_rama
+
+para obtener las ultimas actualizaciones
+git pull
+
+para aplicar los cambios de nombre_rama a la actual
+git merge nombre_rama
+
+Ver el historial de commits
+git log 
